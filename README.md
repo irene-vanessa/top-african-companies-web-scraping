@@ -1,4 +1,4 @@
-## Scraping From Wikipedia: Largest Companies in Africa by Revenue
+## Data Scraping: Largest Companies in Africa by Revenue
 
 This repository contains a Python project that scrapes and structures data from Wikipedia on the largest companies in Africa by revenue.
 
